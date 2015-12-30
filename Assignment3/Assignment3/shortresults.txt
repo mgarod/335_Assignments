@@ -1,0 +1,232 @@
+./SpellCheck document1_short.txt wordsEn.txt
+I will run ./SpellCheck with parameters document1_short.txt, wordsEn.txt
+TestFunctionForHashTables...
+Words filename: wordsEn.txt
+Query filename: document1_short.txt
+after makeempty
+
+Inserting dictionary into the Hash table...
+Statistics for this Hash Table:
+Elements in table: 109582
+Size of the table: 222461
+Load Factor: 0.492590
+
+Beginning seaching for words:
+Checking: this
+Success: "this" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: comlete
+	Match found by single insert!
+	Did you mean: "complete"
+
+Checking: transcript
+Success: "transcript" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: decision
+Success: "decision" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: issued
+Success: "issued" found in the Table
+
+Checking: orally
+Success: "orally" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: she
+Success: "she" found in the Table
+
+Checking: explains
+Success: "explains" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: basis
+Success: "basis" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: granting
+Success: "granting" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: marks
+Success: "marks" found in the Table
+
+Checking: one
+Success: "one" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: times
+Success: "times" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: judge
+Success: "judge" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: issued
+Success: "issued" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: deciasion
+	Match found by single delete!
+	Did you mean: "decision"
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: online
+	Failure: No suitable match could be found
+
+Checking: musicswapping
+	Failure: No suitable match could be found
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: interpretation
+Success: "interpretation" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: lwa
+	Match found by swapping!
+	Did you mean: "law"
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: likely
+Success: "likely" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: widely
+Success: "widely" found in the Table
+
+Checking: cited
+Success: "cited" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: subsequent
+Success: "subsequent" found in the Table
+
+Checking: cases
+Success: "cases" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: crucial
+Success: "crucial" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: appeals
+Success: "appeals" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: grapples
+Success: "grapples" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+

@@ -1,0 +1,4702 @@
+./SpellCheck document1.txt wordsEn.txt
+I will run ./SpellCheck with parameters document1.txt, wordsEn.txt
+TestFunctionForHashTables...
+Words filename: wordsEn.txt
+Query filename: document1.txt
+after makeempty
+
+Inserting dictionary into the Hash table...
+Statistics for this Hash Table:
+Elements in table: 109582
+Size of the table: 222461
+Load Factor: 0.492590
+
+Beginning seaching for words:
+Checking: transcript
+Success: "transcript" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: judge
+Success: "judge" found in the Table
+
+Checking: marilyn
+Success: "marilyn" found in the Table
+
+Checking: hall
+Success: "hall" found in the Table
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: ruling
+Success: "ruling" found in the Table
+
+Checking: editor
+Success: "editor" found in the Table
+
+Checking: note
+Success: "note" found in the Table
+
+Checking: last
+Success: "last" found in the Table
+
+Checking: week
+Success: "week" found in the Table
+
+Checking: us
+Success: "us" found in the Table
+
+Checking: district
+Success: "district" found in the Table
+
+Checking: judge
+Success: "judge" found in the Table
+
+Checking: marilyn
+Success: "marilyn" found in the Table
+
+Checking: hall
+Success: "hall" found in the Table
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: ruled
+Success: "ruled" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: popular
+Success: "popular" found in the Table
+
+Checking: online
+	Failure: No suitable match could be found
+
+Checking: musicswapping
+	Failure: No suitable match could be found
+
+Checking: site
+Success: "site" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: must
+Success: "must" found in the Table
+
+Checking: halt
+Success: "halt" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: distribution
+Success: "distribution" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: material
+Success: "material" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: midnight
+Success: "midnight" found in the Table
+
+Checking: pt
+	Match found by single insert!
+	Did you mean: "apt"
+
+Checking: friday
+Success: "friday" found in the Table
+
+Checking: july
+Success: "july" found in the Table
+
+Checking: 
+	Skipping word, likely because it was a number.
+
+Checking: faced
+Success: "faced" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: going
+Success: "going" found in the Table
+
+Checking: out
+Success: "out" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: business
+Success: "business" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: quickly
+Success: "quickly" found in the Table
+
+Checking: filed
+Success: "filed" found in the Table
+
+Checking: an
+Success: "an" found in the Table
+
+Checking: appeal
+Success: "appeal" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: th
+Success: "th" found in the Table
+
+Checking: us
+Success: "us" found in the Table
+
+Checking: circuit
+Success: "circuit" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: appeals
+Success: "appeals" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: hours
+Success: "hours" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: spare
+Success: "spare" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: company
+Success: "company" found in the Table
+
+Checking: received
+Success: "received" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: stay
+Success: "stay" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: complte
+	Match found by single delete!
+	Did you mean: "compte"
+
+Checking: transcript
+Success: "transcript" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: decision
+Success: "decision" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: issued
+Success: "issued" found in the Table
+
+Checking: orally
+Success: "orally" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: she
+Success: "she" found in the Table
+
+Checking: explains
+Success: "explains" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: basis
+Success: "basis" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: granting
+Success: "granting" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: marks
+Success: "marks" found in the Table
+
+Checking: one
+Success: "one" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: times
+Success: "times" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: judge
+Success: "judge" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: issued
+Success: "issued" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: decion
+	Failure: No suitable match could be found
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: online
+	Failure: No suitable match could be found
+
+Checking: musicswapping
+	Failure: No suitable match could be found
+
+Checking: patel
+	Match found by single delete!
+	Did you mean: "pate"
+
+Checking: interpretation
+Success: "interpretation" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: law
+Success: "law" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: likely
+Success: "likely" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: widely
+Success: "widely" found in the Table
+
+Checking: cited
+Success: "cited" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: subsequent
+Success: "subsequent" found in the Table
+
+Checking: cases
+Success: "cases" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: crucial
+Success: "crucial" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: appeals
+Success: "appeals" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: grapples
+Success: "grapples" found in the Table
+
+Checking: wih
+	Match found by single insert!
+	Did you mean: "wish"
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: well
+Success: "well" found in the Table
+
+Checking: counsel
+Success: "counsel" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: lot
+Success: "lot" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: paper
+Success: "paper" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: filed
+Success: "filed" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: suppose
+Success: "suppose" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: could
+Success: "could" found in the Table
+
+Checking: hear
+Success: "hear" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: lot
+Success: "lot" found in the Table
+
+Checking: more
+Success: "more" found in the Table
+
+Checking: argument
+Success: "argument" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: could
+Success: "could" found in the Table
+
+Checking: take
+Success: "take" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: lot
+Success: "lot" found in the Table
+
+Checking: more
+Success: "more" found in the Table
+
+Checking: time
+Success: "time" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: ultimately
+Success: "ultimately" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: reduce
+Success: "reduce" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: decision
+Success: "decision" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: writing
+Success: "writing" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: time
+Success: "time" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: there
+Success: "there" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: decision
+Success: "decision" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: reliminary
+	Match found by single insert!
+	Did you mean: "preliminary"
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: motion
+Success: "motion" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: waiting
+Success: "waiting" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: through
+Success: "through" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: round
+Success: "round" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: motions
+Success: "motions" found in the Table
+
+Checking: ealier
+	Match found by single insert!
+	Did you mean: "mealier"
+
+Checking: under
+Success: "under" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: digital
+Success: "digital" found in the Table
+
+Checking: millennium
+Success: "millennium" found in the Table
+
+Checking: copyright
+Success: "copyright" found in the Table
+
+Checking: act
+Success: "act" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: plenty
+Success: "plenty" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: time
+Success: "time" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: expended
+Success: "expended" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: preparing
+Success: "preparing" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: motion
+Success: "motion" found in the Table
+
+Checking: certainly
+Success: "certainly" found in the Table
+
+Checking: plenty
+Success: "plenty" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: papre
+	Match found by swapping!
+	Did you mean: "paper"
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: expended
+Success: "expended" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: well
+Success: "well" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: able
+Success: "able" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: render
+Success: "render" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: decision
+Success: "decision" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: motion
+Success: "motion" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: preliminary
+Success: "preliminary" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: prevail
+Success: "prevail" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: motion
+Success: "motion" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: preliminary
+Success: "preliminary" found in the Table
+
+Checking: injunctionand
+	Failure: No suitable match could be found
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: going
+Success: "going" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: take
+Success: "take" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: while
+Success: "while" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: going
+Success: "going" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: go
+Success: "go" found in the Table
+
+Checking: through
+Success: "through" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: elements
+Success: "elements" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: claims
+Success: "claims" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: defensesbut
+	Failure: No suitable match could be found
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: prevail
+Success: "prevail" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: motion
+Success: "motion" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: preliminary
+Success: "preliminary" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: must
+Success: "must" found in the Table
+
+Checking: demonstrate
+Success: "demonstrate" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: combination
+Success: "combination" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: probable
+Success: "probable" found in the Table
+
+Checking: success
+Success: "success" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: meritsand
+	Failure: No suitable match could be found
+
+Checking: possibility
+Success: "possibility" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: irreparable
+Success: "irreparable" found in the Table
+
+Checking: harm
+Success: "harm" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: continuum
+Success: "continuum" found in the Table
+
+Checking: scale
+Success: "scale" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: serious
+Success: "serious" found in the Table
+
+Checking: lagel
+	Failure: No suitable match could be found
+
+Checking: questions
+Success: "questions" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: raisedand
+	Failure: No suitable match could be found
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: balance
+Success: "balance" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: hardships
+Success: "hardships" found in the Table
+
+Checking: tipping
+Success: "tipping" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: favor
+Success: "favor" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: safer
+Success: "safer" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: stay
+Success: "stay" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: those
+Success: "those" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: other
+Success: "other" found in the Table
+
+Checking: words
+Success: "words" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: higher
+Success: "higher" found in the Table
+
+Checking: end
+Success: "end" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: continuum
+Success: "continuum" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: copyright
+Success: "copyright" found in the Table
+
+Checking: cases
+Success: "cases" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: reasonable
+Success: "reasonable" found in the Table
+
+Checking: likelihood
+Success: "likelihood" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: success
+Success: "success" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: merits
+Success: "merits" found in the Table
+
+Checking: does
+Success: "does" found in the Table
+
+Checking: create
+Success: "create" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: presumption
+Success: "presumption" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: irreparable
+Success: "irreparable" found in the Table
+
+Checking: harm
+Success: "harm" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: don
+Success: "don" found in the Table
+
+Checking: everybody
+Success: "everybody" found in the Table
+
+Checking: go
+Success: "go" found in the Table
+
+Checking: bolting
+Success: "bolting" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: door
+Success: "door" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: tell
+Success: "tell" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: right
+Success: "right" found in the Table
+
+Checking: now
+Success: "now" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: my
+Success: "my" found in the Table
+
+Checking: conclusion
+Success: "conclusion" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: then
+Success: "then" found in the Table
+
+Checking: go
+Success: "go" found in the Table
+
+Checking: thrugh
+	Match found by single insert!
+	Did you mean: "through"
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: reasons
+Success: "reasons" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: find
+Success: "find" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: shown
+Success: "shown" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: just
+Success: "just" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: reasonable
+Success: "reasonable" found in the Table
+
+Checking: likelihood
+Success: "likelihood" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: success
+Success: "success" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: strong
+Success: "strong" found in the Table
+
+Checking: likelihood
+Success: "likelihood" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: success
+Success: "success" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: merits
+Success: "merits" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: all
+Success: "all" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: respect
+Success: "respect" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: wildfire
+Success: "wildfire" found in the Table
+
+Checking: diret
+	Match found by single delete!
+	Did you mean: "diet"
+
+Checking: infringement
+Success: "infringement" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: order
+Success: "order" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: establish
+Success: "establish" found in the Table
+
+Checking: either
+Success: "either" found in the Table
+
+Checking: contributory
+Success: "contributory" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: vicarious
+Success: "vicarious" found in the Table
+
+Checking: liability
+Success: "liability" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: must
+Success: "must" found in the Table
+
+Checking: establish
+Success: "establish" found in the Table
+
+Checking: direct
+Success: "direct" found in the Table
+
+Checking: infringement
+Success: "infringement" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: third
+Success: "third" found in the Table
+
+Checking: party
+Success: "party" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: here
+Success: "here" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: establishes
+Success: "establishes" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: majority
+Success: "majority" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: service
+Success: "service" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: download
+Success: "download" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: upload
+Success: "upload" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: music
+Success: "music" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: should
+Success: "should" found in the Table
+
+Checking: come
+Success: "come" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: no
+Success: "no" found in the Table
+
+Checking: surprise
+Success: "surprise" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: since
+Success: "since" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: reallyit
+	Failure: No suitable match could be found
+
+Checking: clear
+Success: "clear" found in the Table
+
+Checking: from
+Success: "from" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: early
+Success: "early" found in the Table
+
+Checking: records
+Success: "records" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: were
+Success: "were" found in the Table
+
+Checking: divulged
+Success: "divulged" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: discoverywas
+	Failure: No suitable match could be found
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: purpose
+Success: "purpose" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: doing
+Success: "doing" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: constitutesthe
+	Failure: No suitable match could be found
+
+Checking: uses
+Success: "uses" found in the Table
+
+Checking: constitutedirect
+	Failure: No suitable match could be found
+
+Checking: infringement
+Success: "infringement" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: musical
+Success: "musical" found in the Table
+
+Checking: compositionsrecordings
+	Failure: No suitable match could be found
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: pretty
+Success: "pretty" found in the Table
+
+Checking: much
+Success: "much" found in the Table
+
+Checking: acknowledged
+Success: "acknowledged" found in the Table
+
+Checking: also
+Success: "also" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: infringement
+Success: "infringement" found in the Table
+
+Checking: unless
+Success: "unless" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: can
+Success: "can" found in the Table
+
+Checking: fall
+Success: "fall" found in the Table
+
+Checking: back
+Success: "back" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: an
+Success: "an" found in the Table
+
+Checking: affirmative
+Success: "affirmative" found in the Table
+
+Checking: defense
+Success: "defense" found in the Table
+
+Checking: because
+Success: "because" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: warnings
+Success: "warnings" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: given
+Success: "given" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: system
+Success: "system" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: infringing
+Success: "infringing" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: statements
+Success: "statements" found in the Table
+
+Checking: made
+Success: "made" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: their
+Success: "their" found in the Table
+
+Checking: own
+Success: "own" found in the Table
+
+Checking: documents
+Success: "documents" found in the Table
+
+Checking: when
+Success: "when" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: business
+Success: "business" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: getting
+Success: "getting" found in the Table
+
+Checking: off
+Success: "off" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: ground
+Success: "ground" found in the Table
+
+Checking: also
+Success: "also" found in the Table
+
+Checking: according
+Success: "according" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: before
+Success: "before" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: much
+Success: "much" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: 
+	Skipping word, likely because it was a number.
+
+Checking: percent
+Success: "percent" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: musicand
+	Failure: No suitable match could be found
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: fairly
+Success: "fairly" found in the Table
+
+Checking: reasonable
+Success: "reasonable" found in the Table
+
+Checking: figure
+Success: "figure" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: fairly
+Success: "fairly" found in the Table
+
+Checking: well
+Success: "well" found in the Table
+
+Checking: supported
+Success: "supported" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: percent
+Success: "percent" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: music
+Success: "music" found in the Table
+
+Checking: available
+Success: "available" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: certainly
+Success: "certainly" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: substantial
+Success: "substantial" found in the Table
+
+Checking: amount
+Success: "amount" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: now
+Success: "now" found in the Table
+
+Checking: defendants
+Success: "defendants" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: raised
+Success: "raised" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: fair
+Success: "fair" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: defense
+Success: "defense" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: an
+Success: "an" found in the Table
+
+Checking: affirmative
+Success: "affirmative" found in the Table
+
+Checking: defense
+Success: "defense" found in the Table
+
+Checking: defendants
+Success: "defendants" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: burden
+Success: "burden" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: defense
+Success: "defense" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: rebut
+Success: "rebut" found in the Table
+
+Checking: allegations
+Success: "allegations" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: infringement
+Success: "infringement" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: raised
+Success: "raised" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: based
+Success: "based" found in the Table
+
+Checking: upon
+Success: "upon" found in the Table
+
+Checking: sony
+	Match found by single delete!
+	Did you mean: "soy"
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: its
+Success: "its" found in the Table
+
+Checking: progeny
+Success: "progeny" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: particularly
+Success: "particularly" found in the Table
+
+Checking: sony
+	Match found by single delete!
+	Did you mean: "soy"
+
+Checking: where
+Success: "where" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: supreme
+Success: "supreme" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: stated
+Success: "stated" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: any
+Success: "any" found in the Table
+
+Checking: indiivdual
+	Match found by swapping!
+	Did you mean: "individual"
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: reproduce
+Success: "reproduce" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: work
+Success: "work" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: fair
+Success: "fair" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: sony
+	Match found by single delete!
+	Did you mean: "soy"
+
+Checking: also
+Success: "also" found in the Table
+
+Checking: stands
+Success: "stands" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: rule
+Success: "rule" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: manufacturer
+Success: "manufacturer" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: liable
+Success: "liable" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: selling
+Success: "selling" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: staple
+Success: "staple" found in the Table
+
+Checking: article
+Success: "article" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: commerce
+Success: "commerce" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: quotes
+Success: "quotes" found in the Table
+
+Checking: from
+Success: "from" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: quote
+Success: "quote" found in the Table
+
+Checking: capable
+Success: "capable" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: commercially
+Success: "commercially" found in the Table
+
+Checking: significant
+Success: "significant" found in the Table
+
+Checking: noninfringing
+	Failure: No suitable match could be found
+
+Checking: uses
+Success: "uses" found in the Table
+
+Checking: fair
+Success: "fair" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: substantial
+Success: "substantial" found in the Table
+
+Checking: noninfringing
+	Failure: No suitable match could be found
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: arguments
+Success: "arguments" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: affirmative
+Success: "affirmative" found in the Table
+
+Checking: defenses
+Success: "defenses" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: defendant
+Success: "defendant" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: said
+Success: "said" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: burden
+Success: "burden" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: showing
+Success: "showing" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: given
+Success: "given" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: constitutes
+Success: "constitutes" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: fair
+Success: "fair" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: finds
+Success: "finds" found in the Table
+
+Checking: thatand
+	Failure: No suitable match could be found
+
+Checking: then
+Success: "then" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: go
+Success: "go" found in the Table
+
+Checking: through
+Success: "through" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: elements
+Success: "elements" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: thisbut
+	Failure: No suitable match could be found
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: finding
+Success: "finding" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: any
+Success: "any" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: potential
+Success: "potential" found in the Table
+
+Checking: noninfringing
+	Failure: No suitable match could be found
+
+Checking: uses
+Success: "uses" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: service
+Success: "service" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: minimal
+Success: "minimal" found in the Table
+
+Checking: some
+Success: "some" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: them
+Success: "them" found in the Table
+
+Checking: seem
+Success: "seem" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: thought
+Success: "thought" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: them
+Success: "them" found in the Table
+
+Checking: afterward
+Success: "afterward" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: after
+Success: "after" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: litigation
+Success: "litigation" found in the Table
+
+Checking: started
+Success: "started" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: substantial
+Success: "substantial" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: commercially
+Success: "commercially" found in the Table
+
+Checking: significant
+Success: "significant" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: service
+Success: "service" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: continues
+Success: "continues" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: copying
+Success: "copying" found in the Table
+
+Checking: popular
+Success: "popular" found in the Table
+
+Checking: music
+Success: "music" found in the Table
+
+Checking: most
+Success: "most" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: no
+Success: "no" found in the Table
+
+Checking: authorization
+Success: "authorization" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: been
+Success: "been" found in the Table
+
+Checking: obtained
+Success: "obtained" found in the Table
+
+Checking: while
+Success: "while" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: capable
+Success: "capable" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: some
+Success: "some" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: these
+Success: "these" found in the Table
+
+Checking: other
+Success: "other" found in the Table
+
+Checking: things
+Success: "things" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: seems
+Success: "seems" found in the Table
+
+Checking: tothose
+	Failure: No suitable match could be found
+
+Checking: uses
+Success: "uses" found in the Table
+
+Checking: seem
+Success: "seem" found in the Table
+
+Checking: topale
+	Failure: No suitable match could be found
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: comparison
+Success: "comparison" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: used
+Success: "used" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: promoted
+Success: "promoted" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: continues
+Success: "continues" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: used
+Success: "used" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: now
+Success: "now" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: must
+Success: "must" found in the Table
+
+Checking: consider
+Success: "consider" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: factors
+Success: "factors" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: must
+Success: "must" found in the Table
+
+Checking: consider
+Success: "consider" found in the Table
+
+Checking: among
+Success: "among" found in the Table
+
+Checking: others
+Success: "others" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: four
+Success: "four" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: specifically
+Success: "specifically" found in the Table
+
+Checking: enumerated
+Success: "enumerated" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: sony
+	Match found by single delete!
+	Did you mean: "soy"
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: purpose
+Success: "purpose" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: characteristic
+Success: "characteristic" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: including
+Success: "including" found in the Table
+
+Checking: whether
+Success: "whether" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: commercial
+Success: "commercial" found in the Table
+
+Checking: nature
+Success: "nature" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: nature
+Success: "nature" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: work
+Success: "work" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: amount
+Success: "amount" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: substantiality
+Success: "substantiality" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: portion
+Success: "portion" found in the Table
+
+Checking: used
+Success: "used" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: relation
+Success: "relation" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: work
+Success: "work" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: whole
+Success: "whole" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: effect
+Success: "effect" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: upon
+Success: "upon" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: potential
+Success: "potential" found in the Table
+
+Checking: market
+Success: "market" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: value
+Success: "value" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: work
+Success: "work" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: there
+Success: "there" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: much
+Success: "much" found in the Table
+
+Checking: dispute
+Success: "dispute" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: respect
+Success: "respect" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: second
+Success: "second" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: third
+Success: "third" found in the Table
+
+Checking: factors
+Success: "factors" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: musical
+Success: "musical" found in the Table
+
+Checking: compositions
+Success: "compositions" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: recordings
+Success: "recordings" found in the Table
+
+Checking: certainly
+Success: "certainly" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: paradigmatic
+	Failure: No suitable match could be found
+
+Checking: kinds
+Success: "kinds" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: things
+Success: "things" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: copyrights
+Success: "copyrights" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: obtained
+Success: "obtained" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: creative
+Success: "creative" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: nature
+Success: "nature" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: constitute
+Success: "constitute" found in the Table
+
+Checking: entertainment
+Success: "entertainment" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: also
+Success: "also" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: third
+Success: "third" found in the Table
+
+Checking: factor
+Success: "factor" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: uploaded
+Success: "uploaded" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: downloaded
+Success: "downloaded" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: least
+Success: "least" found in the Table
+
+Checking: can
+Success: "can" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: generally
+Success: "generally" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: their
+Success: "their" found in the Table
+
+Checking: entirety
+Success: "entirety" found in the Table
+
+Checking: certainly
+Success: "certainly" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: generally
+Success: "generally" found in the Table
+
+Checking: made
+Success: "made" found in the Table
+
+Checking: available
+Success: "available" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: their
+Success: "their" found in the Table
+
+Checking: entirety
+Success: "entirety" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: factor
+Success: "factor" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: finds
+Success: "finds" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: although
+Success: "although" found in the Table
+
+Checking: downloading
+Success: "downloading" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: uploading
+Success: "uploading" found in the Table
+
+Checking: mp
+	Match found by swapping!
+	Did you mean: "pm"
+
+Checking: music
+Success: "music" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: paradigmatic
+	Failure: No suitable match could be found
+
+Checking: commercial
+Success: "commercial" found in the Table
+
+Checking: activity
+Success: "activity" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: also
+Success: "also" found in the Table
+
+Checking: typical
+Success: "typical" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: personal
+Success: "personal" found in the Table
+
+Checking: usethat
+	Failure: No suitable match could be found
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: traditional
+Success: "traditional" found in the Table
+
+Checking: sense
+Success: "sense" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: makes
+Success: "makes" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: difficultor
+	Failure: No suitable match could be found
+
+Checking: any
+Success: "any" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: cases
+Success: "cases" found in the Table
+
+Checking: involving
+Success: "involving" found in the Table
+
+Checking: new
+Success: "new" found in the Table
+
+Checking: technologyis
+	Failure: No suitable match could be found
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: hard
+Success: "hard" found in the Table
+
+Checking: sometimes
+Success: "sometimes" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: make
+Success: "make" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: neat
+Success: "neat" found in the Table
+
+Checking: fit
+Success: "fit" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: mere
+Success: "mere" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: fit
+Success: "fit" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: an
+Success: "an" found in the Table
+
+Checking: easy
+Success: "easy" found in the Table
+
+Checking: one
+Success: "one" found in the Table
+
+Checking: does
+Success: "does" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: mean
+Success: "mean" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: forego
+Success: "forego" found in the Table
+
+Checking: enforcing
+Success: "enforcing" found in the Table
+
+Checking: their
+Success: "their" found in the Table
+
+Checking: rights
+Success: "rights" found in the Table
+
+Checking: under
+Success: "under" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyright
+Success: "copyright" found in the Table
+
+Checking: laws
+Success: "laws" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: shown
+Success: "shown" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: majority
+Success: "majority" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: download
+Success: "download" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: music
+Success: "music" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: sale
+Success: "sale" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: profit
+Success: "profit" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: would
+Success: "would" found in the Table
+
+Checking: appear
+Success: "appear" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: probably
+Success: "probably" found in the Table
+
+Checking: do
+Success: "do" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: however
+Success: "however" found in the Table
+
+Checking: there
+Success: "there" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: anticipates
+Success: "anticipates" found in the Table
+
+Checking: proudly
+Success: "proudly" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: more
+Success: "more" found in the Table
+
+Checking: than
+Success: "than" found in the Table
+
+Checking: 
+	Skipping word, likely because it was a number.
+
+Checking: million
+Success: "million" found in the Table
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: by
+Success: "by" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: end
+Success: "end" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: year
+Success: "year" found in the Table
+
+Checking: 
+	Skipping word, likely because it was a number.
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: on
+Success: "on" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: some
+Success: "some" found in the Table
+
+Checking: fashion
+Success: "fashion" found in the Table
+
+Checking: or
+Success: "or" found in the Table
+
+Checking: another
+Success: "another" found in the Table
+
+Checking: given
+Success: "given" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: vast
+Success: "vast" found in the Table
+
+Checking: scale
+Success: "scale" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: internet
+	Failure: No suitable match could be found
+
+Checking: can
+Success: "can" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: accessnumbers
+	Failure: No suitable match could be found
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: numbers
+Success: "numbers" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: usersand
+	Failure: No suitable match could be found
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: uses
+Success: "uses" found in the Table
+
+Checking: among
+Success: "among" found in the Table
+
+Checking: anonymous
+Success: "anonymous" found in the Table
+
+Checking: individuals
+Success: "individuals" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: just
+Success: "just" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: sharing
+Success: "sharing" found in the Table
+
+Checking: among
+Success: "among" found in the Table
+
+Checking: friends
+Success: "friends" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: typical
+Success: "typical" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: more
+Success: "more" found in the Table
+
+Checking: private
+Success: "private" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: cases
+Success: "cases" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: seen
+Success: "seen" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: very
+Success: "very" found in the Table
+
+Checking: least
+Success: "least" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: host
+Success: "host" found in the Table
+
+Checking: user
+Success: "user" found in the Table
+
+Checking: sending
+Success: "sending" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: file
+Success: "file" found in the Table
+
+Checking: cannot
+Success: "cannot" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: said
+Success: "said" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: engage
+Success: "engage" found in the Table
+
+Checking: merely
+Success: "merely" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: typical
+Success: "typical" found in the Table
+
+Checking: personal
+Success: "personal" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: when
+Success: "when" found in the Table
+
+Checking: distributing
+Success: "distributing" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: file
+Success: "file" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: this
+Success: "this" found in the Table
+
+Checking: case
+Success: "case" found in the Table
+
+Checking: many
+Success: "many" found in the Table
+
+Checking: anonymous
+Success: "anonymous" found in the Table
+
+Checking: requesters
+Success: "requesters" found in the Table
+
+Checking: moreover
+Success: "moreover" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: fact
+Success: "fact" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: get
+Success: "get" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: free
+Success: "free" found in the Table
+
+Checking: something
+Success: "something" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: ordinarily
+Success: "ordinarily" found in the Table
+
+Checking: would
+Success: "would" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: pay
+Success: "pay" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: suggests
+Success: "suggests" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: they
+Success: "they" found in the Table
+
+Checking: reapthe
+	Failure: No suitable match could be found
+
+Checking: users
+Success: "users" found in the Table
+
+Checking: reapan
+	Failure: No suitable match could be found
+
+Checking: economic
+Success: "economic" found in the Table
+
+Checking: advantage
+Success: "advantage" found in the Table
+
+Checking: from
+Success: "from" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: fourth
+Success: "fourth" found in the Table
+
+Checking: factor
+Success: "factor" found in the Table
+
+Checking: plaintiffs
+Success: "plaintiffs" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: produced
+Success: "produced" found in the Table
+
+Checking: evidence
+Success: "evidence" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: harms
+Success: "harms" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: market
+Success: "market" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: copyrighted
+Success: "copyrighted" found in the Table
+
+Checking: work
+Success: "work" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: least
+Success: "least" found in the Table
+
+Checking: two
+Success: "two" found in the Table
+
+Checking: ways
+Success: "ways" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: had
+Success: "had" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: number
+Success: "number" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: studies
+Success: "studies" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: will
+Success: "will" found in the Table
+
+Checking: spell
+Success: "spell" found in the Table
+
+Checking: out
+Success: "out" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: order
+Success: "order" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: problems
+Success: "problems" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: some
+Success: "some" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: those
+Success: "those" found in the Table
+
+Checking: studies
+Success: "studies" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: don
+Success: "don" found in the Table
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: any
+Success: "any" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: them
+Success: "them" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: know
+Success: "know" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: would
+Success: "would" found in the Table
+
+Checking: call
+Success: "call" found in the Table
+
+Checking: without
+Success: "without" found in the Table
+
+Checking: flaw
+Success: "flaw" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: selecting
+Success: "selecting" found in the Table
+
+Checking: out
+Success: "out" found in the Table
+
+Checking: college
+Success: "college" found in the Table
+
+Checking: students
+Success: "students" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: don
+Success: "don" found in the Table
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: was
+Success: "was" found in the Table
+
+Checking: inappropriate
+Success: "inappropriate" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: therefore
+Success: "therefore" found in the Table
+
+Checking: does
+Success: "does" found in the Table
+
+Checking: not
+Success: "not" found in the Table
+
+Checking: negate
+Success: "negate" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: entire
+Success: "entire" found in the Table
+
+Checking: study
+Success: "study" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: makes
+Success: "makes" found in the Table
+
+Checking: clear
+Success: "clear" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: however
+Success: "however" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: only
+Success: "only" found in the Table
+
+Checking: looking
+Success: "looking" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: college
+Success: "college" found in the Table
+
+Checking: students
+Success: "students" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: therefore
+Success: "therefore" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: know
+Success: "know" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: only
+Success: "only" found in the Table
+
+Checking: looking
+Success: "looking" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: segment
+Success: "segment" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: market
+Success: "market" found in the Table
+
+Checking: nonetheless
+Success: "nonetheless" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: segment
+Success: "segment" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: napster
+	Failure: No suitable match could be found
+
+Checking: itself
+Success: "itself" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: said
+Success: "said" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: has
+Success: "has" found in the Table
+
+Checking: targeted
+Success: "targeted" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: gives
+Success: "gives" found in the Table
+
+Checking: us
+Success: "us" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: snapshot
+Success: "snapshot" found in the Table
+
+Checking: particularly
+Success: "particularly" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: preliminary
+Success: "preliminary" found in the Table
+
+Checking: injunction
+Success: "injunction" found in the Table
+
+Checking: purposes
+Success: "purposes" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: happening
+Success: "happening" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: particular
+Success: "particular" found in the Table
+
+Checking: market
+Success: "market" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: find
+Success: "find" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: fader
+Success: "fader" found in the Table
+
+Checking: report
+Success: "report" found in the Table
+
+Checking: is
+Success: "is" found in the Table
+
+Checking: far
+Success: "far" found in the Table
+
+Checking: less
+Success: "less" found in the Table
+
+Checking: persuasive
+Success: "persuasive" found in the Table
+
+Checking: first
+Success: "first" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: all
+Success: "all" found in the Table
+
+Checking: he
+Success: "he" found in the Table
+
+Checking: relies
+Success: "relies" found in the Table
+
+Checking: upon
+Success: "upon" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: number
+Success: "number" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: studies
+Success: "studies" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: were
+Success: "were" found in the Table
+
+Checking: printed
+Success: "printed" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: wall
+Success: "wall" found in the Table
+
+Checking: street
+Success: "street" found in the Table
+
+Checking: journal
+Success: "journal" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: wired
+Success: "wired" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: new
+Success: "new" found in the Table
+
+Checking: york
+Success: "york" found in the Table
+
+Checking: times
+Success: "times" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: so
+Success: "so" found in the Table
+
+Checking: forth
+Success: "forth" found in the Table
+
+Checking: which
+Success: "which" found in the Table
+
+Checking: may
+Success: "may" found in the Table
+
+Checking: be
+Success: "be" found in the Table
+
+Checking: fine
+Success: "fine" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: marketing
+Success: "marketing" found in the Table
+
+Checking: purposes
+Success: "purposes" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: strategizing
+	Failure: No suitable match could be found
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: doesn
+	Match found by single delete!
+	Did you mean: "does"
+
+Checking: do
+Success: "do" found in the Table
+
+Checking: very
+Success: "very" found in the Table
+
+Checking: much
+Success: "much" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: reliable
+Success: "reliable" found in the Table
+
+Checking: survey
+Success: "survey" found in the Table
+
+Checking: for
+Success: "for" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: purposes
+Success: "purposes" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: commend
+Success: "commend" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: you
+Success: "you" found in the Table
+
+Checking: judge
+Success: "judge" found in the Table
+
+Checking: schwarzer
+	Failure: No suitable match could be found
+
+Checking: book
+Success: "book" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: respect
+Success: "respect" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: any
+Success: "any" found in the Table
+
+Checking: event
+Success: "event" found in the Table
+
+Checking: even
+Success: "even" found in the Table
+
+Checking: as
+Success: "as" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: evaluation
+Success: "evaluation" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: greenfield
+	Failure: No suitable match could be found
+
+Checking: survey
+Success: "survey" found in the Table
+
+Checking: i
+	Match found by single insert!
+	Did you mean: "ai"
+
+Checking: think
+Success: "think" found in the Table
+
+Checking: there
+Success: "there" found in the Table
+
+Checking: are
+Success: "are" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: number
+Success: "number" found in the Table
+
+Checking: of
+Success: "of" found in the Table
+
+Checking: problems
+Success: "problems" found in the Table
+
+Checking: with
+Success: "with" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: greenfield
+	Failure: No suitable match could be found
+
+Checking: survey
+Success: "survey" found in the Table
+
+Checking: but
+Success: "but" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: don
+Success: "don" found in the Table
+
+Checking: really
+Success: "really" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: a
+Success: "a" found in the Table
+
+Checking: breakdown
+Success: "breakdown" found in the Table
+
+Checking: other
+Success: "other" found in the Table
+
+Checking: than
+Success: "than" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: one
+Success: "one" found in the Table
+
+Checking: sheet
+Success: "sheet" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: end
+Success: "end" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: doesn
+	Match found by single delete!
+	Did you mean: "does"
+
+Checking: tell
+Success: "tell" found in the Table
+
+Checking: us
+Success: "us" found in the Table
+
+Checking: very
+Success: "very" found in the Table
+
+Checking: much
+Success: "much" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: all
+Success: "all" found in the Table
+
+Checking: about
+Success: "about" found in the Table
+
+Checking: what
+Success: "what" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: answers
+Success: "answers" found in the Table
+
+Checking: really
+Success: "really" found in the Table
+
+Checking: were
+Success: "were" found in the Table
+
+Checking: at
+Success: "at" found in the Table
+
+Checking: least
+Success: "least" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: jay
+Success: "jay" found in the Table
+
+Checking: report
+Success: "report" found in the Table
+
+Checking: we
+Success: "we" found in the Table
+
+Checking: have
+Success: "have" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: answers
+Success: "answers" found in the Table
+
+Checking: that
+Success: "that" found in the Table
+
+Checking: were
+Success: "were" found in the Table
+
+Checking: given
+Success: "given" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: questions
+Success: "questions" found in the Table
+
+Checking: in
+Success: "in" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: questionnaire
+Success: "questionnaire" found in the Table
+
+Checking: so
+Success: "so" found in the Table
+
+Checking: it
+Success: "it" found in the Table
+
+Checking: far
+Success: "far" found in the Table
+
+Checking: greater
+Success: "greater" found in the Table
+
+Checking: use
+Success: "use" found in the Table
+
+Checking: and
+Success: "and" found in the Table
+
+Checking: more
+Success: "more" found in the Table
+
+Checking: probative
+Success: "probative" found in the Table
+
+Checking: to
+Success: "to" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: court
+Success: "court" found in the Table
+
+Checking: than
+Success: "than" found in the Table
+
+Checking: the
+Success: "the" found in the Table
+
+Checking: fader
+Success: "fader" found in the Table
+
+Checking: report
+Success: "report" found in the Table
+

@@ -1,0 +1,14 @@
+Number of failed words:
+2
+
+Number of words found by swap
+1
+
+Number of words found by deletion
+3
+
+Number of words found by single insert
+1
+
+Number of words skipped (numeric words)
+0
